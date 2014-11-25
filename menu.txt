@@ -1,0 +1,14 @@
+zurek: 6.0
+jarzynowa: 4.0
+pomidorowa: 5.0
+filet z kurczaka: 9.0
+frytki: 4.5
+surowka: 3.0
+ryz: 1.5
+gulasz: 8.5
+placki ziemniaczane: 5.5
+ser smazony: 7.0
+pierogi ruskie: 6.5
+sok pomarañczowy: 2.5
+kawa: 3.0
+woda: 1.5
